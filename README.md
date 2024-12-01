@@ -1,3 +1,11 @@
+
+<img width="1392" alt="Screenshot 2024-12-01 at 8 25 16 PM" src="https://github.com/user-attachments/assets/92b83129-3457-48ac-87d3-c187d759f3e6">
+<img width="1440" alt="Screenshot 2024-12-01 at 8 25 27 PM" src="https://github.com/user-attachments/assets/bc4c959c-7241-42c6-9045-8ae0cd2e5e7e">
+<img width="1438" alt="Screenshot 2024-12-01 at 8 25 39 PM" src="https://github.com/user-attachments/assets/39c60a0c-5cd5-4542-883e-251ba032e70a">
+
+
+
+
 # MyTableApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
