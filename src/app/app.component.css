@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    gap: 20px; /* Space between columns */
+    justify-content: center; /* Center columns horizontally */
+  }
+  
+  .column {
+    flex: 1; /* Equal width for both columns */
+    max-width: 500px; /* Optional: limit the column width */
+  }
+  
+  .mat-table {
+    width: 100%; /* Make the table occupy the full width of the column */
+  }
+  
